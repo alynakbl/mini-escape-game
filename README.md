@@ -47,7 +47,7 @@ A 3D escape game created in Unity as a learning project. Collect the apple and e
 ## Technologies Used
 
 * Unity Engine
-* C# scripting
+* C# scripting (with tutorial and AI assistance)
 * Unity NavMesh system
 * Unity Physics Engine
 * DOTween animation library
