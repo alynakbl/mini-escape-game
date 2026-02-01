@@ -2,6 +2,11 @@
 
 A 3D escape game created in Unity as a learning project. Collect the apple and escape through the exit door while avoiding AI-controlled enemy characters.
 
+<p align="center">
+  <img src="game-sleep.png" width="45%" />
+  <img src="game-chase.png" width="45%" />
+</p>
+
 ## Game Concept
 
 **Objective:** Collect the apple and reach the randomly placed exit door without getting caught by enemies.
